@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/search_template/static/css/main.40acf7b3.chunk.css",
+    "main.js": "/search_template/static/js/main.d64a2df8.chunk.js",
+    "main.js.map": "/search_template/static/js/main.d64a2df8.chunk.js.map",
+    "runtime-main.js": "/search_template/static/js/runtime-main.5257f27d.js",
+    "runtime-main.js.map": "/search_template/static/js/runtime-main.5257f27d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/search_template/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5012a49f.chunk.js": "/search_template/static/js/2.5012a49f.chunk.js",
+    "static/js/2.5012a49f.chunk.js.map": "/search_template/static/js/2.5012a49f.chunk.js.map",
+    "index.html": "/search_template/index.html",
+    "precache-manifest.dd40a748377cc4c6b0aae681dd05ae0c.js": "/search_template/precache-manifest.dd40a748377cc4c6b0aae681dd05ae0c.js",
+    "service-worker.js": "/search_template/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/search_template/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.40acf7b3.chunk.css.map": "/search_template/static/css/main.40acf7b3.chunk.css.map",
+    "static/js/2.5012a49f.chunk.js.LICENSE": "/search_template/static/js/2.5012a49f.chunk.js.LICENSE",
+    "static/media/App.css": "/search_template/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5257f27d.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5012a49f.chunk.js",
+    "static/css/main.40acf7b3.chunk.css",
+    "static/js/main.d64a2df8.chunk.js"
+  ]
+}
