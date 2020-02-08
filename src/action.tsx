@@ -5,12 +5,12 @@ import {
     CHANGE_SEARCH_FIELD 
 } from "./constants";
 
-export const setSearchField = (text) => ({
+export const setSearchField = (text: any) => ({
         type: CHANGE_SEARCH_FIELD,
         payload: text 
 })
 
-export const requestRobots = () => (dispatch) => {
+export const requestRobots = () => (dispatch: any) => {
     dispatch({ type: REQUEST_ROBOTS_PENDING });
     fetch('https://jsonplaceholder.typicode.com/users')
         .then(response => response.json())

@@ -1,7 +1,12 @@
 import React from 'react';
 import Card from './Card';
 
-const CardList = ({ robots }) => {
+interface IRobots {
+    id: number,
+    name: string,
+    email: string
+}
+const CardList = ({ robots }: { robots: Array<IRobots> }) => {
     const cardComponent = robots.map((user, i) => {
         return (
             <Card 
